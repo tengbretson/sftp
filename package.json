@@ -14,11 +14,13 @@
     "react-native-macos": "0.18.0"
   },
   "devDependencies": {
+    "@types/react-native": "^0.56.14",
     "babel-jest": "23.4.2",
     "babel-plugin-module-resolver": "^3.1.1",
     "babel-preset-react-native": "4.0.0",
     "jest": "23.5.0",
-    "react-test-renderer": "16.2.0"
+    "react-test-renderer": "16.2.0",
+    "typescript": "^3.0.1"
   },
   "jest": {
     "preset": "react-native-macos"
